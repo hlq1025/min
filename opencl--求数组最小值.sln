@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencl--求数组最小值", "opencl--求数组最小值\opencl--求数组最小值.vcxproj", "{07E5FB97-69F9-4F41-A113-B3B5B63F1605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E5FB97-69F9-4F41-A113-B3B5B63F1605}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07E5FB97-69F9-4F41-A113-B3B5B63F1605}.Debug|Win32.Build.0 = Debug|Win32
+		{07E5FB97-69F9-4F41-A113-B3B5B63F1605}.Debug|x64.ActiveCfg = Debug|x64
+		{07E5FB97-69F9-4F41-A113-B3B5B63F1605}.Debug|x64.Build.0 = Debug|x64
+		{07E5FB97-69F9-4F41-A113-B3B5B63F1605}.Release|Win32.ActiveCfg = Release|Win32
+		{07E5FB97-69F9-4F41-A113-B3B5B63F1605}.Release|Win32.Build.0 = Release|Win32
+		{07E5FB97-69F9-4F41-A113-B3B5B63F1605}.Release|x64.ActiveCfg = Release|x64
+		{07E5FB97-69F9-4F41-A113-B3B5B63F1605}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
